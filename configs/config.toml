@@ -7,7 +7,7 @@ www = ""
 # swagger文档目录(也可以启动服务时使用-swagger指定)
 swagger = ""
 
-# 数据存储(支持：gorm)
+# 数据存储(支持：gorm.) 
 store = "gorm"
 
 # http配置
