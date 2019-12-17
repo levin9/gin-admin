@@ -33,7 +33,7 @@ data = ""
 # casbin配置
 [casbin]
 # 是否启用casbin
-enable = true
+enable = false
 # debug模式
 debug = false
 # 模型配置文件(也可以启动服务时使用-m指定)
